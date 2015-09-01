@@ -38,7 +38,7 @@ module GovTrack
     end
 
     def self.find_by_uri(uri)
-      new(get("https://www.govtrack.us/api/v2/bill/#{uri}"))
+      new(get("https://www.govtrack.us/api/v2#{uri}"))
     end
 
     def ==(other)
