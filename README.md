@@ -1,7 +1,5 @@
 # GovTrack Gem
-An unofficial Ruby wrapper for the [GovTrack API](http://www.govtrack.us/developers/api). You must agree to the surprisingly brief and readable [license terms](http://www.govtrack.us/developers/license) before using.
-
-This wrapper was forked from http://github.com/noahlitvin/govtrack, which is now deprecated.  The latest version includes updates to base_uri in order to successfully make requests, and support for Committee endpoint.
+An unofficial Ruby wrapper for the [GovTrack API](http://www.govtrack.us/developers/api). This wrapper was forked from http://github.com/noahlitvin/govtrack, which is now deprecated.  The latest version includes updates to base_uri in order to successfully make requests, and support for Committee endpoint.
 
 ## Installation
 
